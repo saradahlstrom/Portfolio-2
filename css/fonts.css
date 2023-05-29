@@ -1,0 +1,48 @@
+
+ 
+ @font-face {
+     font-family: 'cormorantlight_italic';
+     src: url('fonts/cormorant-italic-variablefont_wght-webfont.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+ 
+ 
+ 
+ 
+ @font-face {
+     font-family: 'cormorantlight';
+     src: url('fonts/cormorant-variablefont_wght-webfont.woff2') format('woff2'),
+          url('fonts/cormorant-variablefont_wght-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+
+ 
+ 
+ 
+ @font-face {
+     font-family: 'fixelthin';
+     src: url('fonts/FixelText-Thin.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+
+ @font-face {
+     font-family: 'fixelregular';
+     src: url('fonts/FixelText-Regular.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
+
+ @font-face {
+     font-family: 'fixelbold';
+     src: url('fonts/FixelText-Bold.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+ 
+ }
